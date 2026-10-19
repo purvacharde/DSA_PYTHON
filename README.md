@@ -1,23 +1,23 @@
 # DSA_PYTHON
-Python DSA Practice and Interview Preparation
 
+**Python DSA Practice and Interview Preparation**
 
-# List Problem
+This repository contains my Python practice programs for improving problem-solving skills and preparing for technical interviews.
 
-1. 2nd largest number from a list
-2. Find missing no from a list
-3. Move all zero at the end of the list
+## List Problems
+1. Find the Second Largest Number in a List
+2. Find the Missing Number in a List
+3. Move All Zeros to the End of a List
 
+## Number Problems
+1. Check Whether a Number Is an Armstrong Number
+2. Count the Prime Digits in a Given Integer
+3. Check Whether a Number Is a Palindrome
+4. Reverse a Number
+5. Find the Sum of Digits of a Number
 
-# Number Problem
+## String Problems
+1. Find the Frequency of Each Character in a String
 
-1. Amstrong number or not
-2. Write a Python program to count the number of prime digits in a given integer.
-3. Reverse number and check palindrome.
-4. Reverse a number.
-5. Sum of digits of a number.
-
-
-# String Problem
-
-1. Frequency of each character of a string.
+## Goal
+To strengthen Python fundamentals, logical thinking, and coding skills through consistent practice.
