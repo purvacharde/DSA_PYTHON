@@ -1,6 +1,6 @@
 # Write a Python program to find the largest and smallest digit in a given integer.
 
-n = 583261
+n = int(input('Enter a no: '))
 
 large = -float('inf')
 small = float('inf')
