@@ -15,6 +15,7 @@ This repository contains my Python practice programs for improving problem-solvi
 3. Check Whether a Number Is a Palindrome
 4. Reverse a Number
 5. Find the Sum of Digits of a Number
+6. Write a Python program to find the largest and smallest digit in a given integer.
 
 ## String Problems
 1. Find the Frequency of Each Character in a String
