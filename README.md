@@ -8,6 +8,7 @@ This repository contains my Python practice programs for improving problem-solvi
 1. Find the Second Largest Number in a List
 2. Find the Missing Number in a List
 3. Move All Zeros to the End of a List
+4. Write a Python program to count how many times each element appears in a list, without using count() or importing any module.
 
 ## Number Problems
 1. Check Whether a Number Is an Armstrong Number
