@@ -9,6 +9,7 @@ This repository contains my Python practice programs for improving problem-solvi
 2. Find the Missing Number in a List
 3. Move All Zeros to the End of a List
 4. Write a Python program to count how many times each element appears in a list, without using count() or importing any module.
+5. Find the Second smallest Number in a List
 
 ## Number Problems
 1. Check Whether a Number Is an Armstrong Number
@@ -17,6 +18,7 @@ This repository contains my Python practice programs for improving problem-solvi
 4. Reverse a Number
 5. Find the Sum of Digits of a Number
 6. Write a Python program to find the largest and smallest digit in a given integer.
+7. Write a Python program to check whether a number is a power of 2 using a bitwise operator.
 
 ## String Problems
 1. Find the Frequency of Each Character in a String
