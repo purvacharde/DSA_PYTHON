@@ -20,6 +20,8 @@ This repository contains my Python practice programs for improving problem-solvi
 6. Write a Python program to find the largest and smallest digit in a given integer.
 7. Write a Python program to check whether a number is a power of 2 using a bitwise operator.
 8. Write a Python program to find the second-largest unique digit in an integer without using sort(), sorted(), or set().
+9. Write a Python program to count how many prime digits are present in an integer.
+
 
 ## String Problems
 1. Find the Frequency of Each Character in a String
