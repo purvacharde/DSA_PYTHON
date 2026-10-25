@@ -27,6 +27,12 @@ This repository contains my Python practice programs for improving problem-solvi
 1. Find the Frequency of Each Character in a String
 
 
+
+## Function Problems
+ 1. Write a Function to check the no is strong or not
+
+
+
 ## Recursion Problems
 1. write a program to check if a number is a power of 2 or not using recursion
 
