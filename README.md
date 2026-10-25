@@ -29,5 +29,15 @@ This repository contains my Python practice programs for improving problem-solvi
 ## Recursion Problems
 1. write a program to check if a number is a power of 2 or not using recursion
 
+
+
+
+## Conditional Statement
+1. Write a Python program to check whether a given date is valid.
+
+
+
+
+
 ## Goal
 To strengthen Python fundamentals, logical thinking, and coding skills through consistent practice.
