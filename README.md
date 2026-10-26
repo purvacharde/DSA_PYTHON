@@ -10,6 +10,7 @@ This repository contains my Python practice programs for improving problem-solvi
 3. Move All Zeros to the End of a List
 4. Write a Python program to count how many times each element appears in a list, without using count() or importing any module.
 5. Find the Second smallest Number in a List
+6. Find pairs in list whose sum = target value.
 
 ## Number Problems
 1. Check Whether a Number Is an Armstrong Number
