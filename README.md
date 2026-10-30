@@ -11,6 +11,7 @@ This repository contains my Python practice programs for improving problem-solvi
 4. Write a Python program to count how many times each element appears in a list, without using count() or importing any module.
 5. Find the Second smallest Number in a List
 6. Find pairs in list whose sum = target value.
+7.  Rotate list by K positions.
 
 ## Number Problems
 1. Check Whether a Number Is an Armstrong Number
@@ -42,6 +43,11 @@ This repository contains my Python practice programs for improving problem-solvi
 
 ## Conditional Statement
 1. Write a Python program to check whether a given date is valid.
+
+
+
+## Loop Problems
+1. ATM system (loop until user exits).
 
 
 

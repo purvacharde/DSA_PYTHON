@@ -1,4 +1,4 @@
-##Write a Python program to find the first non-repeating character in a string.
+##Write a Python program t.
 
 s = input('Enter a string: ')
 
