@@ -23,6 +23,8 @@ This repository contains my Python practice programs for improving problem-solvi
 7. Write a Python program to check whether a number is a power of 2 using a bitwise operator.
 8. Write a Python program to find the second-largest unique digit in an integer without using sort(), sorted(), or set().
 9. Factorial of number
+10. W A P to print n even no from 1
+
 
 
 ## String Problems
